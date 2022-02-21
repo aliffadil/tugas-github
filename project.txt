@@ -1,2 +1,4 @@
 mulai project
+mulai develop
+menambahkan fitur 1
 menambahkan fitur 2
